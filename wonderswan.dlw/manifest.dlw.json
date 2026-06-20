@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "BANDAI WONDERSWAN",
+  "universe": "WS · BANDAI WONDERSWAN (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦BANDAI WONDERSWAN:WS:888f68⟧",
+  "carbon": "wonderswan.carbon.tiff (TIFF)",
+  "silicon": "wonderswan.silicon.png (PNG)",
+  "seal_sha256": "922b9433834ed11f72d83a28e61c1b12334e7e2250971e07e25093be68d9338a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

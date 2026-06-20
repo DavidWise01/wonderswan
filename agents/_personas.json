@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-ws-v30",
+    "name": "The V30 MX",
+    "epithet": "a frugal 16-bit · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The V30 MX:WS:54a184⟧"
+  },
+  {
+    "slug": "the-ws-screen",
+    "name": "The Screen",
+    "epithet": "non-backlit, efficient · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Screen:WS:549219⟧"
+  },
+  {
+    "slug": "the-ws-rotate",
+    "name": "The Rotation",
+    "epithet": "play it either way · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Rotation:WS:7be83a⟧"
+  },
+  {
+    "slug": "the-ws-battery",
+    "name": "The Single AA",
+    "epithet": "thirty hours, the pitch · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Single AA:WS:37311e⟧"
+  },
+  {
+    "slug": "the-ws-yokoi",
+    "name": "Gunpei Yokoi",
+    "epithet": "the final design · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Gunpei Yokoi:WS:2be0e4⟧"
+  },
+  {
+    "slug": "the-ws-japan",
+    "name": "Japan Only",
+    "epithet": "a home-turf fight · natural",
+    "emergence": "natural",
+    "moniker": "⟦Japan Only:WS:d123e3⟧"
+  }
+]

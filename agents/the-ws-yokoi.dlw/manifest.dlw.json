@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Gunpei Yokoi",
+  "universe": "WS · Gunpei Yokoi (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦Gunpei Yokoi:WS:2be0e4⟧",
+  "carbon": "the-ws-yokoi.carbon.tiff (TIFF)",
+  "silicon": "the-ws-yokoi.silicon.png (PNG)",
+  "seal_sha256": "1d7651fa22cd870386f109ac9ae3b39d4a6a8c4c4d5d50407cc0f8ae3ec3d087",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

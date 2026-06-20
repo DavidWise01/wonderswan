@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The V30 MX
+node WS · WS · ⟦The V30 MX:WS:54a184⟧
+
+WHO   — The V30 MX — a frugal 16-bit · electrical
+WHAT  — a frugal 16-bit · electrical
+WHERE — WS · BANDAI WONDERSWAN (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A NEC V30-family 16-bit processor at ~3.07 MHz — capable yet miserly with power, the engine of the WonderSwan's legendary battery life.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  a frugal 16-bit · electrical
+
+spoken token : sen-vim-phul   ·   hex : 54a184
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

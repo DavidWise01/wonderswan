@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Rotation",
+  "universe": "WS · The Rotation (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Rotation:WS:7be83a⟧",
+  "carbon": "the-ws-rotate.carbon.tiff (TIFF)",
+  "silicon": "the-ws-rotate.silicon.png (PNG)",
+  "seal_sha256": "77f674c5d35a9ea474f24ae7237009e88e307953a26a43a7d270716c3b0f5658",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
