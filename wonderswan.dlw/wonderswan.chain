@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 876
+slug  : wonderswan
+seal  : 922b9433834ed11f72d83a28e61c1b12334e7e2250971e07e25093be68d9338a
+prev  : f2e3b327d1ea7e0daf4072020408bc633c5ed12c3f70b72db02f1af69e1f55d2
+link  : bd076bb997a2c9692ae827e62ec26d00a990bd77f88e80341333ec89c6373b3e
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
